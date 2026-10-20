@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261019T231803Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Energy underpins all sectors of the economy, and improved access to modern energy services is central to development.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Энергия лежит в основе всех секторов экономики, и расширение доступа к современным энергетическим услугам является ключевым фактором развития.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewable Energy is derived from natural processes that are replenished constantly.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемые источники энергии связаны с природными процессами и постоянно пополняются.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewable energy technologies (RETs) are technologies that provide modern energy services.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Технологии использования возобновляемых источников энергии представляют собой такие технологии, которые обеспечивают современные энергетические услуги.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Technology transfer is an important facet of RETs deployment in developing countries.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Передача технологии является важным аспектом внедрения ТВЭ в развивающихся странах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Flow A depicts the process of hardware being created and brought into use.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Поток А отражает процесс создания и предоставления в пользование технических средств.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Flow B depicts the human capital associated with the operation and maintenance of the physical capital.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Поток В отображает человеческий капитал, связанный с эксплуатацией и обслуживанием физического капитала.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>This is the know-how, and it includes information on operating, maintenance and repair procedures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это представляет собой ноу-хау и включает информацию о процедурах эксплуатации, обслуживания и ремонта.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>In this sense, Flow C allows for existing technology to be adapted and modified to suit local conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В этом смысле поток С позволяет адаптировать и изменять существующую технологию в соответствии с местными условиями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>One option for developing this local knowledge and expertise is the concept of low-carbon innovation centres.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Одним из вариантов развития этих местных знаний и опыта является концепция низкоуглеродных инновационных центров.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>For developing countries, the most feasible RETs include solar PV.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В развивающихся странах наиболее приемлемые ТВЭ включают солнечные фотоэлектрические панели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>They allow traditional fuels to be utilized in cleaner, more efficient ways.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Они позволяют использовать традиционные виды топлива более чистым и более эффективным способом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Broadening the energy mix through varied indigenous fuel sources can improve energy security.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Расширение энергетического баланса за счет разнообразных местных топливных источников может улучшить энергетическую безопасность.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Providing incentives for RD&amp;D at the firm level in private companies, and supporting technology deployment in market niches.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обеспечение стимулов для НИОКР на уровне частных компаний и поддержку внедрения технологий в рыночных нишах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Government procurement can encourage private firms to adopt renewable energy technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Государственные закупки могут поощрять внедрение частными компаниями технологий использования возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Two reasons are commonly cited for the need for public intervention.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обычно упоминаются две причины, по которым государственное вмешательство необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>This price distortion therefore reduces the transfer and the market penetration of renewable energy technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это ценовое искажение уменьшает передачу и проникновение на рынок технологий использования возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Feed-in tariffs are an important domestic policy mechanism too.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Важным механизмом внутренней политики также являются стимулирующие тарифы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>In order to complement domestic financial mechanisms, countries should also look to take advantage of international financial mechanisms.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В целях дополнения внутренних финансовых механизмов странам следует также изучить возможность использования международных финансовых механизмов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Energy efficiency and conservation are equally important features.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Энергоэффективность и энергосбережение являются в равной степени важными.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>This presents a significant challenge to the effective transfer of RETs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это представляет собой значительную проблему для эффективной передачи ТВЭ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Rapid technological progress, combined with falling costs, means that renewable energy is increasingly seen as the answer.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Быстрый научно-технический прогресс в сочетании со снижением затрат приводит к тому, что возобновляемые источники энергии пользуются все большим успехом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>REmap 2030, a global roadmap developed by IRENA, shows that not only can renewable energy meet the world's rising demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Глобальная дорожная карта REmap 2030 демонстрирует, что возобновляемые источники энергии могут не просто удовлетворить растущий мировой спрос.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>A technology once considered as niche is becoming mainstream.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Эта технология, некогда считавшаяся нишевым решением, становится массовой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>If business continues as usual, these efforts will not succeed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Если коммерческая деятельность будет осуществляться старыми методами, эти усилия окажутся тщетными.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The average emissions intensity of electricity production has barely changed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Средняя интенсивность выбросов при производстве электроэнергии почти не изменилась.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>A doubling in the share of renewables could help mitigate climate change.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Увеличение доли возобновляемых источников энергии в два раза могло бы помочь смягчить последствия изменения климата.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>They contribute to limiting global warming to under 2 degrees Celsius.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Они способствуют ограничению глобального потепления величиной в 2 градуса Цельсия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The cost of renewable energy plummets as deployment increases.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стоимость возобновляемой энергии резко упала по мере увеличения их использования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Solar photovoltaic (PV) prices have fallen by 80% since 2008.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цены на фотоэлектрические системы с 2008 г. снизились на 80%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Commercial solar power reached grid parity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Энергия, произведенная на коммерческих солнечных электростанциях, достигла сетевого паритета.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Turbine costs falling nearly 30% since 2008.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стоимость турбин с 2008 г. снизилась приблизительно на 30%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>More than 100 countries now use wind power.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В настоящее время более 100 стран используют ветровую электроэнергию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewables today constitute 30% of all installed power capacity.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На сегодняшний день возобновляемые источники энергии составляют 30% суммарной установленной мощности всех электростанций в мире.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The challenge has moved on from whether renewable energy can power modern lifestyles at a reasonable cost.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вопрос не в том, может ли возобновляемая энергия обеспечить современный образ жизни при приемлемых затратах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The cost of capital is falling and products are being tailored for a wider range of investors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стоимость капитала снижается, а продукция специально разрабатывается для широкого ряда инвесторов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Crowdfunding initiatives can also be used to attract capital.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Для привлечения капитала можно использовать также программы краудфандинга.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Institutional investors are also starting to get interested.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Институциональные инвесторы также начинают проявлять интерес.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Total investment in renewable energy rose from USD 55 billion in 2004 to USD 214 billion in 2013.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Общая сумма инвестиций в возобновляемые источники энергии выросла с 40 млрд долл. США в 2004 г. до 214 млрд долл. США в 2013 г.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Policy makers can do much to either promote or hinder this vision.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лица, ответственные за проведение государственной политики, могут сделать многое, чтобы стимулировать воплощение этой концепции или препятствовать ей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>A recent Japanese study found the benefits were 2-3 times higher than the costs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Результаты недавнего японского исследования показали, что экономические выгоды в 2—3 раза превышают расходы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>In 2013, it supported 6.5 million direct and indirect jobs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Благодаря им в 2013 г. было создано 6,5 млн прямых и сопутствующих рабочих мест.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Most renewables do not deplete finite resources.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Использование большинства возобновляемых источников энергии не приводит к истощению ограниченных ресурсов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Crucially, they offer a route to reducing greenhouse gas emissions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Что самое главное, они являются способом сокращения выбросов парниковых газов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>REmap 2030 estimates that doubling the share of renewables can keep atmospheric CO2 below 450 ppm.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Согласно дорожной карте REmap 2030 удвоение доли возобновляемых источников энергии в энергосистеме может обеспечить ограничение концентрации CO2 в атмосфере.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>A sector once dominated by large utilities is becoming more decentralised.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сектор, в котором когда-то доминировали крупные объекты энергообеспечения, становится более децентрализованным.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>New storage technologies will grow in importance.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возрастает значимость новых технологий накопления и хранения энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Many countries have an opportunity to leapfrog the development of a fixed network.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>У многих стран есть возможность быстро перепрыгнуть этап развития фиксированной сети.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewable energy investors need stable and predictable policy frameworks.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Инвесторам в области возобновляемой энергетики необходима стабильная и прогнозируемая политическая среда.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>They need a level playing field, including cutting back on subsidies for fossil fuels.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Им нужны равные условия, что подразумевает сокращение субсидий для ископаемых видов топлива.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>As the share of renewable energy grows, the structure of the industry is undergoing change.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>По мере роста доли возобновляемых источников энергии структура промышленности претерпевает изменения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The renewable energy sector employed 11.5 million people in 2019.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В 2019 году в секторе возобновляемых источников энергии было занято 11,5 миллиона человек.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The bulk of global jobs relate to modern energy use.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Основная часть рабочих мест в мире связана с использованием современной энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The share of women in the renewable energy workforce is about 32%.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доля женщин в рабочей силе в секторе возобновляемых источников энергии составляет примерно 32%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Asia accounted for 63% of total jobs in renewables globally.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На Азию приходится 63% всех рабочих мест в секторе возобновляемых источников энергии во всём мире.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Off-grid decentralised renewables are creating a growing number of jobs.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Децентрализованные автономные возобновляемые источники энергии создают всё больше рабочих мест.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The solar PV industry retains the top spot.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На первом месте остаётся фотоэлектрическая солнечная энергетика.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Supply chains are expanding.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цепочки поставок расширяются.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Hydropower has the largest installed capacity of all renewables.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Гидроэнергетика имеет самую большую установленную мощность из всех возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Building the skills base requires more vocational training.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Создание базы навыков требует более широкого профессионального обучения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The COVID-19 pandemic reinforced the importance of strong policy frameworks for renewables.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пандемия COVID-19 подчеркнула важность прочной нормативной базы для возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewable energy is a key solution to address climate change.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемая энергия является ключевым решением проблемы изменения климата.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Now is the time for decisive action.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сейчас настало время для решительных действий.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Fulfilling the Paris Agreement means deploying renewables six times faster.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Выполнение Парижского соглашения означает развёртывание возобновляемых источников энергии в шесть раз быстрее.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>By 2050, two-thirds of the world's energy should be renewable.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К 2050 году две трети произведённой в мире энергии должны быть получены с помощью возобновляемой энергетики.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewables can cut energy-related CO2 emissions by about 70%.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемые источники энергии могут сократить выбросы CO2, связанные с производством энергии, примерно на 70%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewables and electrification technologies could achieve 90% of the emission reductions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>С помощью возобновляемых источников энергии и технологий электрификации можно добиться сокращения выбросов на 90%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Growing share of electricity in final energy consumption.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Растущая доля электроэнергии в конечном энергопотреблении.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewables have become the least-cost source of new power generation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемые источники энергии стали самым дешёвым новым источником электроэнергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Costs from all commercially available renewable power technologies continue to fall.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стоимость всех коммерчески доступных технологий возобновляемой энергии продолжает падать.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>IRENA analysis shows that renewables and energy efficiency can boost global GDP by 2.5%.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Анализ IRENA показывает, что возобновляемые источники энергии и энергоэффективность могут повысить мировой ВВП на 2,5%.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Today's energy system is heavily subsidised.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Современная энергетическая система в значительной степени субсидируется.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewables are helping to expand energy access across Africa and Asia.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемые источники энергии помогают расширить доступ к энергии в Африке и Азии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>More countries manufacture, trade and install renewable energy technologies every year.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ежегодно всё больше стран производят, продают и внедряют технологии использования возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Women hold 32% of jobs in renewables.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Женщины занимают 32% рабочих мест в сфере возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Nationally Determined Contributions provide a strong framework to reduce emissions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Национальные обязательства обеспечивают прочную основу для сокращения выбросов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The ambition of current NDC targets could more than double.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Амбиции нынешних целей НО могут более чем удвоиться.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Cost-effective renewable energy potential remains untapped.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Экономически эффективный потенциал возобновляемой энергии остаётся неиспользованным.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Today's plans and policies foresee energy investments to 2050 reaching USD 95 trillion.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сегодняшние планы и политики предусматривают, что инвестиции в энергетику до 2050 года достигнут 95 триллионов долларов США.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The cumulative payoff by 2050 would be worth between USD 65 trillion and USD 160 trillion.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Совокупные выплаты к 2050 году составят от 65 до 160 триллионов долларов США.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Renewable energy delivers jobs, delivers on sustainable economic development and will deliver a viable climate solution.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возобновляемые источники энергии обеспечивают рабочие места, обеспечивают устойчивое экономическое развитие и обеспечат приемлемое решение по климату.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>The ongoing conflict in the Middle East has severely disrupted global oil and gas supplies.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Продолжающийся конфликт на Ближнем Востоке серьезно нарушил глобальные поставки нефти и газа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Deploy distributed renewable energy solutions to support public services.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внедрять решения в области распределенной возобновляемой энергетики для поддержки общественных услуг.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Accelerate deployment of solar PV battery hybrid mini-grids.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ускорить развертывание гибридных мини-сетей, сочетающих солнечные фотоэлектрические системы и аккумуляторные батареи.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Initiate public information campaigns and measures such as mandates to reduce energy demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Проводить информационные кампании и принимать меры, такие как введение обязательных требований по сокращению спроса на энергию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Fast-track time-of-use tariff adoption.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ускорить внедрение тарифов с дифференциацией по времени использования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Implement fiscal measures such as grants, subsidies or tax rebates.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ввести фискальные меры, такие как гранты, субсидии или налоговые льготы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Fast-track current renewable energy and grid infrastructure projects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ускорить реализацию текущих проектов в области возобновляемой энергетики и инфраструктуры энергосистем.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Incentivise battery energy storage deployment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стимулировать внедрение аккумуляторных систем хранения энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Leverage grid enhancement technologies to relieve near-term grid constraints.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Использовать технологии модернизации энергосистемы для устранения краткосрочных ограничений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Incentivise the deployment of renewables-based heating solutions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стимулировать внедрение решений в области отопления на основе возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Streamline permitting for electric vehicle charger installation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Упростить процедуру получения разрешений на установку зарядных устройств для электромобилей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Fast-track permitting and subsidy support for sustainable aviation fuel production projects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ускорить процедуру получения разрешений и оказать субсидиарную поддержку проектам по производству экологически чистого авиационного топлива.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Establish comprehensive, clear, supportive policy frameworks to attract investment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Создать комплексную, четкую и благоприятную нормативную базу для привлечения инвестиций.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Promote domestic and regional supply chain development for technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Содействовать развитию внутренних и региональных цепочек поставок технологий.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Facilitate hybridisation of projects to allow storage systems to be installed.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Содействовать гибридизации проектов с целью обеспечения возможности установки систем накопления энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Incentivise and support electrification in low-to-medium temperature process heating.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стимулировать и поддерживать электрификацию в сфере технологического нагрева с низкой и средней температурой.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Develop targeted financing mechanisms for renewable-based mini-grids.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Разработать целевые механизмы финансирования мини-сетей на основе возобновляемых источников энергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Make financial and subsidy support for the fossil fuel industry conditional on meeting renewable energy targets.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сделать финансовую и субсидиарную поддержку отрасли ископаемого топлива зависимой от достижения целевых показателей в области возобновляемой энергетики.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>Long-term cost reductions in renewable energy technologies are reshaping the economics of electricity generation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Долгосрочное снижение затрат на технологии возобновляемой энергетики меняет экономику производства электроэнергии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20261019T231803Z">
+      <prop type="domain">Возобновляемая энергетика и накопители энергии</prop>
+      <tuv xml:lang="en">
+        <seg>China's power sector is notably more insulated from this shock.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Энергетический сектор Китая в значительной степени более защищен от данного потрясения.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

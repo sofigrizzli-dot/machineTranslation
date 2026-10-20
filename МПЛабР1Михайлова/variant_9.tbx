@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Возобновляемая энергетика и накопители энергии</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 9, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>access to modern energy services</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The availability of reliable and affordable modern energy, such as electricity and clean cooking fuels, to end users.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>доступ к современным энергетическим услугам</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>renewable energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Energy sources that are naturally replenished on a human timescale, such as sunlight, wind, water, and geothermal heat.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>возобновляемые источники энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>renewable energy technologies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Technologies that harness renewable sources to deliver modern energy services such as electricity and clean fuels.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>технологии использования возобновляемых источников энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>technology transfer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of transferring skills, knowledge, equipment, and manufacturing methods between countries or organizations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>передача технологии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hardware</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Physical equipment, machinery, and capital goods used in production or energy generation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>технические средства</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>human capital</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The collective skills, knowledge, and experience of people, viewed as an asset of economic value.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>человеческий капитал</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>know-how</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Practical knowledge of how to operate and maintain a technology, usually codified in manuals and routines.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ноу-хау</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>adapt</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To modify or adjust a technology so that it fits new local conditions or needs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>адаптировать</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>low-carbon innovation centres</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Institutions designed to foster and accelerate innovation in low-carbon technologies such as renewables.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>низкоуглеродные инновационные центры</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>solar PV</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Devices that convert sunlight directly into electricity through the photovoltaic effect.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фотоэлектрические панели</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>traditional fuels</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Conventional fuels such as firewood, charcoal, and crop residues, often burned inefficiently and with health impacts.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>традиционные виды топлива</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>energy security</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The uninterrupted availability of energy at an affordable price and resilience against supply disruptions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>энергетическая безопасность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>RD&amp;D</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Research, development, and deployment; systematic work to create and introduce new products or processes.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>НИОКР</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>government procurement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process by which governments purchase goods, services, and works from the private sector.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>государственные закупки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>public intervention</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Government action to influence economic outcomes, often to correct market failures.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>государственное вмешательство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>price distortion</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A situation where market prices fail to reflect the true social or environmental costs of a good.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ценовое искажение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>feed-in tariffs</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A policy offering guaranteed long-term prices to renewable energy producers to accelerate investment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стимулирующие тарифы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>international financial mechanisms</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Cross-border funds and institutions designed to finance specific global goals such as clean energy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>международные финансовые механизмы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>energy efficiency</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The use of less energy to provide the same service or produce the same output.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>энергоэффективность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>effective transfer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The successful and widespread transfer of technology, knowledge, and skills from one party to another.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эффективная передача</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>technological progress</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The continuous advancement and application of new scientific knowledge and technology to improve systems.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>научно-технический прогресс</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>roadmap</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A strategic plan outlining the steps needed to achieve a long-term goal or vision.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>дорожная карта</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>niche</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A product or technology serving a specialized market segment, not yet widely adopted.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нишевое решение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>business-as-usual scenario</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A business-as-usual scenario in which current trends and policies continue without significant change.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инерционный сценарий</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>emissions intensity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The amount of greenhouse gases emitted per unit of energy produced or activity performed.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интенсивность выбросов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mitigate climate change</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Actions to reduce greenhouse gas emissions in order to limit the severity of climate change.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>смягчение последствий изменения климата</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>global warming</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The long-term rise in the average temperature of the Earth's climate system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>глобальное потепление</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cost of renewable energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The economic cost per unit of energy generated from renewable sources, e.g. dollars per kilowatt-hour.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стоимость возобновляемой энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>solar photovoltaic systems</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A complete assembly of solar panels and associated components that convert sunlight into electricity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фотоэлектрические системы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>grid parity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The point at which an alternative energy source costs the same as or less than grid electricity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сетевой паритет</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>turbine</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A rotary device that extracts energy from a fluid flow, such as wind or water, and converts it into work.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>турбина</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>wind power</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Electricity generated from the kinetic energy of wind, typically using wind turbines.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ветровая энергия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>installed power capacity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The maximum electrical power a generating station or system can produce under specified conditions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>установленная мощность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>reasonable cost</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A cost level that is economically viable and affordable for consumers and investors.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>приемлемые затраты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cost of capital</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The rate of return required to persuade an investor to commit funds to a project.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стоимость капитала</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>crowdfunding</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The practice of funding a project by raising small amounts of money from a large number of people.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>краудфандинг</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>institutional investors</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Organizations such as pension funds and insurance companies that invest large sums on behalf of others.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>институциональные инвесторы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>investment in renewable energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Financial commitments made to develop, deploy, and expand renewable energy technologies and infrastructure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инвестиции в возобновляемые источники энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>public policy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A course of action adopted by a government to address issues and achieve specific goals.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>государственная политика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>economic benefits</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The positive financial outcomes resulting from an action or investment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>экономические выгоды</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>direct and indirect jobs</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Jobs created within an industry plus those created in its supply chains and through induced spending.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>прямые и сопутствующие рабочие места</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>depletion of resources</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The consumption of a resource faster than it can be replenished, leading to scarcity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>истощение ресурсов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>greenhouse gases</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Gases in the atmosphere, such as CO2 and methane, that trap heat and contribute to global warming.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>парниковые газы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>atmospheric CO2 concentration</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The amount of carbon dioxide present in the atmosphere, usually measured in parts per million.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>концентрация CO2 в атмосфере</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>decentralisation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The distribution of power generation and decision-making away from central authorities or large utilities.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>децентрализация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>energy storage technologies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Systems used to store energy for later use, such as batteries, pumped hydro, or thermal storage.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>технологии накопления и хранения энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>leapfrog</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <descrip type="definition">To bypass intermediate stages of technological development by adopting advanced solutions directly.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>перепрыгнуть этап</term>
+              <termNote type="partOfSpeech">verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stable policy environment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A consistent and reliable set of government policies that reduces uncertainty for investors.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стабильная политическая среда</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>level playing field</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A situation in which all competitors face the same rules and market conditions without unfair advantages.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>равные условия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>structure of the industry</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The composition and organization of firms, markets, and value chains within an industrial sector.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>структура промышленности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>employment in renewable energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The number of people working in the production, installation, and maintenance of renewable energy technologies.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>занятость в секторе возобновляемых источников энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>modern energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Energy services such as electricity and clean fuels that are reliable, affordable, and sustainable.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>современная энергия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>workforce</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total number of people employed or actively seeking employment in a sector or economy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>рабочая сила</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>share of employment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The percentage of total employment in an industry or region attributable to a specific group or technology.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>доля занятости</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>off-grid renewables</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Small-scale renewable energy systems that operate independently of a main electricity grid.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>автономные возобновляемые источники энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>solar PV industry</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The industry engaged in manufacturing and deploying solar photovoltaic systems.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фотоэлектрическая солнечная энергетика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>supply chain</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The network of organizations, resources, and activities involved in creating and delivering a product.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>цепочка поставок</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hydropower</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Electricity generated from the potential and kinetic energy of flowing or falling water.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гидроэнергетика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>skills base</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The collective set of competencies and knowledge available in a workforce or sector.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>база навыков</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>policy framework</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A set of laws, regulations, and standards that govern an industry or activity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нормативная база</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>key solution</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A primary or essential answer to a major problem or challenge.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ключевое решение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>decisive action</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Firm and effective measures taken to address a problem or achieve a goal.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>решительные действия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Paris Agreement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An international climate treaty adopted in 2015 to limit global warming to well below 2°C.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>Парижское соглашение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>energy transition</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The global shift from fossil fuel-based energy systems to renewable and low-carbon sources.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>энергетический переход</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>emission reductions</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The reduction of greenhouse gas emissions released into the atmosphere.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>сокращение выбросов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>electrification</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of replacing fossil-fuel technologies with technologies that use electricity as an energy source.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>электрификация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>final energy consumption</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total energy consumed by end users after all transformation and distribution losses.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>конечное энергопотребление</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>least-cost source</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The lowest possible cost of producing a good or service, used to compare energy sources.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>наименьшая стоимость</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>commercially available technologies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Technologies that are fully developed, market-ready, and available for purchase and deployment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>коммерчески доступные технологии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>global GDP</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total monetary value of all finished goods and services produced worldwide in a period.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мировой ВВП</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>subsidy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A financial benefit or tax break given by a government to support an industry or activity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>субсидия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>energy access</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The availability of modern energy services such as electricity and clean fuels to a population.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>доступ к энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>manufacture and deployment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The combined activities of manufacturing, selling, and installing technology systems.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>производство и внедрение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gender gap</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The disparity in representation, pay, or opportunities between men and women in a given field.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гендерный разрыв</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Nationally Determined Contributions</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Climate action plans submitted by countries under the Paris Agreement to cut emissions.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>национальные обязательства</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ambition</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The level of commitment or stringency of a target set by a government or organization.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>амбиции</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>potential</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The maximum possible output or capacity of a resource that has not yet been realized.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>потенциал</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>plans and policies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The strategic intentions and regulatory measures set by governments and organizations.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>планы и политики</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cumulative payoff</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The total financial return or benefit accumulated over a period of time.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>совокупные выплаты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sustainable economic development</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Economic growth achieved without depleting natural resources or harming the environment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>устойчивое экономическое развитие</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>supply disruption</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An interruption or disruption in the flow of goods, services, or energy resources.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>перебои в поставках</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>distributed renewable energy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Small-scale renewable systems installed close to the point of use rather than at a central plant.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>распределенная возобновляемая энергетика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hybrid mini-grids</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A small independent grid combining multiple energy sources, such as solar and batteries, with backup.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гибридные мини-сети</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>demand response</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The modification of consumer demand for energy through incentives, pricing, and behavioral change.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>управление спросом</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>time-of-use tariffs</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A pricing strategy where electricity costs vary by time of day, reflecting supply costs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тарифы с дифференциацией по времени использования</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fiscal measures</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Government actions related to taxation and spending used to influence the economy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фискальные меры</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>grid infrastructure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The physical networks and facilities required for the generation, transmission, and distribution of electricity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>инфраструктура энергосистем</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>battery energy storage</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Rechargeable battery systems used to store electrical energy for later use and grid balancing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аккумуляторные системы хранения энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>grid enhancement</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Upgrading and improving the capacity, efficiency, and flexibility of existing electricity grids.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модернизация энергосистемы</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>renewables-based heating</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Heating systems that use renewable sources such as solar thermal, geothermal, or biomass.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>отопление на основе возобновляемых источников энергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>electric vehicle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A vehicle propelled by one or more electric motors using energy stored in rechargeable batteries.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>электромобиль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sustainable aviation fuel</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A fuel used to power aircraft that has a lower carbon footprint than conventional jet fuel.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>экологически чистое авиационное топливо</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>supportive policy framework</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A set of regulations and policies designed to encourage and facilitate investment in a sector.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>благоприятная нормативная база</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>domestic supply chains</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The network of suppliers and production processes located within a country's borders.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>внутренние цепочки поставок</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hybridisation of projects</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The integration of two or more energy sources or technologies, such as solar and storage, in one project.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гибридизация проектов</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>process heating</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The use of heat in industrial processes such as manufacturing, chemical production, or food processing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>технологический нагрев</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>targeted financing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Financial resources specifically allocated for a particular project, purpose, or sector.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>целевое финансирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>renewable energy targets</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Specific and measurable goals for the adoption or generation of renewable energy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>целевые показатели в области возобновляемой энергетики</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>economics of electricity generation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The financial factors that determine the cost, price, and viability of generating electricity.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>экономика производства электроэнергии</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Возобновляемая энергетика и накопители энергии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>insulation from shocks</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The ability of a system or economy to resist and recover from external shocks such as price volatility.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>защищенность от потрясений</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

@@ -1,0 +1,3 @@
+﻿query,tuid,source_segment,target_segment,score,lev_ratio,token_sort_ratio,match_type
+Renewable energy technologies (RETs) are technologies that provide modern energy services.,3,Renewable energy technologies (RETs) are technologies that provide modern energy services.,"Технологии использования возобновляемых источников энергии представляют собой такие технологии, которые обеспечивают современные энергетические услуги.",100.0,100.0,100.0,ICE (101%)
+The cost of renewable energy drops as deployment increases.,28,The cost of renewable energy plummets as deployment increases.,Стоимость возобновляемой энергии резко упала по мере увеличения их использования.,88.52,88.52,75.41,Fuzzy
